@@ -1,0 +1,1 @@
+easy lab for verilog
