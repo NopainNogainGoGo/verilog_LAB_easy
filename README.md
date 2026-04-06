@@ -1,1 +1,3 @@
-easy lab for verilog
+大三修學校的課練習的 lab
+剛開始蠻痛苦的，到後面就慢慢抓到感覺了
+算是為後面 IC_Contest 的暖身吧 XD ~
